@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dean Ryan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dean Ryan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_IOSystem.-957272306.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dean Ryan\Desktop\NewGithub\IOSystem" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Actions" t="Include">
+            <e p="AvailableActions.cs" t="Include" />
+          </e>
+          <e p="Enums" t="Include">
+            <e p="ConfiguredActions.cs" t="Include" />
+            <e p="IOSystemOptions.cs" t="Include" />
+            <e p="IOSystemType.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IIOSystem.cs" t="Include" />
+          </e>
+          <e p="IOSystem" t="Include">
+            <e p="IOSystemCreator.cs" t="Include" />
+            <e p="IOSystemFactory.cs" t="Include" />
+          </e>
+          <e p="IOSystemController.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="IOConfiguration.cs" t="Include" />
+          </e>
+          <e p="Serializables" t="Include">
+            <e p="ActivatedIO.cs" t="Include" />
+            <e p="IOAction.cs" t="Include" />
+            <e p="IOActionsManager.cs" t="Include" />
+          </e>
+          <e p="SystemTypes" t="Include">
+            <e p="JoystickIOSystem.cs" t="Include" />
+            <e p="KeysIOSystem.cs" t="Include" />
+            <e p="TouchIOSystem.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="IOSystem.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
