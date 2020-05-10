@@ -12,4 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 574864371fcf452aab5dc9b48d08e697, type: 3}
   m_Name: IOSystemConfig
   m_EditorClassIdentifier: 
-  IOActions: []
+  IOActions:
+  - ActivatedIOList:
+    - ConfiguredActions: 0
+      IOSystemOptions: 0
+      IOActivator:
+      - DELETE
+    ActionEnabled: 1
+  - ActivatedIOList:
+    - ConfiguredActions: 1
+      IOSystemOptions: 1
+      IOActivator:
+      - CTRL+S
+    ActionEnabled: 1
+  - ActivatedIOList:
+    - ConfiguredActions: 2
+      IOSystemOptions: 0
+      IOActivator:
+      - SWIPELEFT
+    ActionEnabled: 1
