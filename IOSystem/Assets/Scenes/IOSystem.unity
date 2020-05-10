@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IOConfiguration: {fileID: 11400000, guid: da2350baf40a7eb489df4bb88abd863d, type: 2}
-  CurrentIoSystemType: 1
+  CurrentIoSystemType: 2
 --- !u!4 &29272870
 Transform:
   m_ObjectHideFlags: 0
